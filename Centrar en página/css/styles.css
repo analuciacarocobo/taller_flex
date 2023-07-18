@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 625px;
+}
+
+
+
+#hola {
+    width: 30%;
+    background-color: rgb(110, 110, 110);
+}
